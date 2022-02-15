@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Hoyeon Moon
-- 👀 I’m interested in Front-End
+- 👀 I’m CSULB studnet majoring in Comp Sci
+- 📚 I'm interested in Front-End Development
 - 🌱 I’m currently learning JS
 - 📫 How to reach me : mhy991011@gmail.com
